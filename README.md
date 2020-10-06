@@ -1,5 +1,5 @@
 # Road Bump Detection -- using a Deep Learning Model
-
+Detecting Bumps on Road Surfaces using an object detection model trained using the TF Object Detection API and inferenced on Jetson Nano Using TensorRT.
 ### Check the output of the object detection model here: 
 https://www.youtube.com/watch?v=kqT52hL7pLM&feature=youtu.be
 
